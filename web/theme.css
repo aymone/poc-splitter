@@ -1,0 +1,8 @@
+.progress {
+    color:#fff;
+}
+.meter {
+    width:0%;
+    font-size: 12px;
+    padding: .3em;
+}
